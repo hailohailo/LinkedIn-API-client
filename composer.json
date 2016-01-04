@@ -23,11 +23,6 @@
         "mockery/mockery": "@stable",
         "illuminate/support": "@stable"
     },
-    "autoload": {
-        "psr-7": {
-            "Happyr\\LinkedIn\\": "src/"
-        }
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.7.x-dev"
