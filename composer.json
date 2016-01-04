@@ -28,7 +28,7 @@
             "Happyr\\LinkedIn\\": "src/"
         },
         "psr-4": {
-            "Happyr\\LinkedIn\\": "src/Happyr/LinkedIn/"
+            "Happyr\\LinkedIn\\": "src/"
         }
     },
     "extra": {
