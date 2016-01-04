@@ -24,10 +24,7 @@
         "illuminate/support": "@stable"
     },
     "autoload": {
-        "psr-0": {
-            "Happyr\\LinkedIn\\": "src/"
-        },
-        "psr-4": {
+        "psr-7": {
             "Happyr\\LinkedIn\\": "src/"
         }
     },
